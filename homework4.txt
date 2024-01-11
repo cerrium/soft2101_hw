@@ -1,0 +1,5 @@
+git config --global user.name "irem ceren"
+git config --global user.email "iremcelikk2@hotmail.com"
+git config --global core.editor 
+
+git config --list
